@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-family:  Josefin Sans;
-  font-size: 40px;
+  font-size: 2rem;
   text-shadow: 1px 1px 2px silver;
   letter-spacing: 1.2em;
   border-bottom: 3px solid rgb(115,115,114);
